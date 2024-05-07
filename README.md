@@ -2,7 +2,8 @@ This repository contains the CSV files for the processed dataset used to train V
 
 ### Speech Segments
 - `as_speech_en.csv`
-- `cv.csv`
+- `cv1.csv` (`cv.csv` has been split into two due to file size limitations on GitHub.)
+- `cv2.csv`
 - `voxceleb.csv`
 
 ### Non-Speech Segments
